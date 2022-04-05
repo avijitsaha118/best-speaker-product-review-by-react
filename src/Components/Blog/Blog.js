@@ -13,7 +13,7 @@ const Blog = () => {
                 For a more in-depth definition, it provides a way for us to make particular data available to all components throughout the component tree no matter how deeply nested that component may be.
             </p>
 
-            <h3 className='text-xl mt-3'> Question-02: What is semantic tag?</h3>
+            <h3 className='text-xl mt-3'> Question-02: What is Semantic Tag?</h3>
             <h5 className='font-bold'>Answer:</h5>
              
             <p>

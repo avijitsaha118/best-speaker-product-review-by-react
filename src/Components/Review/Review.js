@@ -1,24 +1,30 @@
 import React from 'react';
 
 const Review = ({ review }) => {
-  const { name, details, rattings } = review;
+  const { name, details, rattings, star, image, type } = review;
   return (
-
     <div className="flex flex-col justify-between">
-      <div className="rounded-lg shadow-lg bg-green max-w-sm">
-        <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-          {/* <img ClassName="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt="" /> */}
-        </a>
-        <div className="p-6">
-          <h5 className="text-gray-900 text-xl font-medium mb-2">{name}</h5>
-          <p className="text-gray-700 text-base mb-4">
+    <div className='flex items-center'>
+        <img className='w-10 h-10 rounded-full ml-6' src={image} alt='user-img'/>
 
-          </p>
-          <p><small>Ratting 5 out of {rattings}</small></p>
-          <h5>{details}</h5>
-        </div>
-      </div>
+        <div className='text-sm'>
+              <p className='text-gray-900 leading-none'>
+                     {name}
+              </p>
+              <p className='text-xs text-gray-600'>
+                    {type}
+              </p>
+          </div>
     </div>
+    <div className="rounded-lg shadow-lg bg-green max-w-sm">
+        <div className="p-6">
+            <p><small>Ratting {rattings} out of 5 {star}</small></p>
+            <h5>{details}</h5>
+        </div>
+
+    </div>
+</div>
+
   );
 };
 

@@ -1,44 +1,56 @@
 [
-    {
-      "id": "6249f04dcdf994a663f0f6b6",
-      "details": "Product is good, quality of sound is undoubtly best.",
-      "rattings": 4.3,
-      "star": "⭐⭐⭐⭐",
-      "name": "Stark Leach"
-    },
-    {
-      "id": "6249f04de7ae9c4ca3677f1e",
-      "details": "Product is good, quality of sound is undoubtly best.",
-      "rattings": 5,
-      "star": "⭐⭐⭐⭐⭐",
-      "name": "Liza Romero"
-    },
-    {
-      "id": "6249f04d3ba855aac538ddb2",
-      "details": "Product is good, quality of sound is undoubtly best.",
-      "rattings": 4.8,
-      "star": "⭐⭐⭐⭐⭐",
-      "name": "Blanca Calhoun"
-    },
-    {
-      "id": "6249f04d26f0daec70eb0bf7",
-      "details": "Product is good, quality of sound is undoubtly best.",
-      "rattings": 4.0,
-      "star": "⭐⭐⭐⭐",
-      "name": "Knox Irwin"
-    },
-    {
-      "id": "6249f04dc2ecebc3b16740ff",
-      "details": "Product is good, quality of sound is undoubtly best.",
-      "rattings": 4.1,
-      "star": "⭐⭐⭐⭐",
-      "name": "Virginia Holt"
-    },
-    {
-      "id": "6249f04dc2ecebc3b16750ff",
-      "details": "Product is good, quality of sound is undoubtly best.",
-      "rattings": 4.2,
-      "star": "⭐⭐⭐⭐",
-      "name": "Virginia Holt"
-    }
-  ]
+  {
+    "id": "6249f04dcdf994a663f0f6b6",
+    "details": "Product is good, quality of sound is undoubtly best. This product is also budget friendly. If you want to buy a budget friendly best quality product, then it will be your first choice.",
+    "rattings": 4,
+    "star": "⭐⭐⭐⭐",
+    "image": "https://i.ibb.co/0c22C7B/pexels-dapo-abideen-4924538.jpg",
+    "name": "Stark Leach",
+    "type": "Member Since 2011"
+  },
+  {
+    "id": "6249f04de7ae9c4ca3677f1e",
+    "details": "I reccomend this product to those who think to buy a sound spekaer for home. Its pretty sound and stunning bass change your atmosphare at a moment. Its durability also very good.",
+    "rattings": 5,
+    "star": "⭐⭐⭐⭐⭐",
+    "image": "https://i.ibb.co/RBZ1SZ8/pexels-dapo-abideen-5383156.jpg",
+    "name": "Entiny Romero",
+    "type": "Member Since 2013"
+  },
+  {
+    "id": "6249f04d3ba855aac538ddb2",
+    "details": "If you plan to go see bath or swimming whole day with music, definenty this Bose speker for you. Its waterproof and quality of sound is incomparable.",
+    "rattings": 5,
+    "star": "⭐⭐⭐⭐⭐",
+    "image": "https://i.ibb.co/X2K0zCV/pexels-jessika-arraes-6355171.jpg",
+    "name": "Blanca Calhoun",
+    "type": "Member Since 2016"
+  },
+  {
+    "id": "6249f04d26f0daec70eb0bf7",
+    "details": "Fisrt its battery back up impress me so much. Sound quality so good, clean and soft. Notice every lyric much clearly. I love this sound speaker.",
+    "rattings": 4,
+    "star": "⭐⭐⭐⭐",
+    "image": "https://i.ibb.co/W6ZShqV/pexels-maria-gloss-4197860.jpg",
+    "name": "Knox Irwin",
+    "type": "Member Since 2019"
+  },
+  {
+    "id": "6249f04dc2ecebc3b16740ff",
+    "details": "Before buying you can't imagine how good this produtc is. Quality of sound so smooth, noise cancellation option good part from it. Recommend product for sound lovers.",
+    "rattings": 4,
+    "star": "⭐⭐⭐⭐",
+    "image": "https://i.ibb.co/R3mWzcH/pexels-matt-jerome-connor-4433109.jpg",
+    "name": "Virginia Holt",
+    "type": "Member Since 2016"
+  },
+  {
+    "id": "6249f04dc2ecebc3b16750ff",
+    "details": "Last month I buy this from online e-store. My experience so good with this product. Price is suitable with its quality. Best sound speaker from my collection.",
+    "rattings": 5,
+    "star": "⭐⭐⭐⭐⭐",
+    "image": "https://i.ibb.co/L63Vynq/pexels-raphael-brasileiro-6878678.jpg",
+    "name": "Endrew Roll",
+    "type": "Member Since 2022"
+  }
+]

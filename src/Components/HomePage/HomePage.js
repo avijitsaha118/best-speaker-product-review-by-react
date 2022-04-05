@@ -10,15 +10,15 @@ const HomePage = () => {
     const navigate = useNavigate();
     return (
         <div>
-            <div className='container'>
+            <div className='grid grid-cols-2 gap-2'>
                 <div className='title-container'>
                     <h1 className='text-3xl'>
                         Make Your Ambience
                         <br />
                         More Pretty
                     </h1>
-                    <p className='text-xl text-gray-600'> Its so easy now to decide which gadget more efficient and usefull to you. <br />
-                        Take a one minutes Read and decide which box is perfect for you. Take a Tour now.
+                    <p className='text-xl text-gray-600'> Its so easy now to decide which gadget more efficient <br/> and usefull to you.
+                        Take a one minutes read and decide which sound spekaer is perfect for you. Take a Tour now.
                     </p>
 
                 </div>

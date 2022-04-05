@@ -44,7 +44,6 @@ const MyLineChart = () => {
        <LineChart width={400} height={600} data={data}>
            <CartesianGrid strokeDasharray="3 3" />
            <Line dataKey="revenue" stroke="#8884d8"></Line>
-           {/* <Line dataKey="investment" stroke="#82ca9d"></Line> */}
            <XAxis dataKey="month"></XAxis>
            <Tooltip></Tooltip>
            <Legend/>

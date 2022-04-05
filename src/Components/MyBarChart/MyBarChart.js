@@ -42,7 +42,7 @@ const MyBarChart = () => {
         }
     ]
     return (
-      <BarChart width={400} height={600} data={data}>
+      <BarChart width={500} height={600} data={data}>
           <CartesianGrid strokeDasharray="3 3"/>
           <XAxis dataKey={"investment"}></XAxis>
           <YAxis dataKey="sell"></YAxis>

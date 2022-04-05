@@ -6,15 +6,21 @@ import MyPieChart from '../MyPieChart/MyPieChart';
 
 const Dashboard = () => {
     return (
-        <div className='chart'>
-        <h3>This is dashboard</h3>   
-        <MyLineChart></MyLineChart> 
-        <br/>
-        <MyBarChart></MyBarChart>   
-        <br/>
-        <MyPieChart></MyPieChart>    
+        <div>
+            <h1 className='mt-3'>Dashboard Data info</h1>
+            <div className='grid grid-cols-2 gap-2 mt-5'>
+                <div>
+                    <MyLineChart></MyLineChart>
+                </div>
+                <div>
+                    <MyBarChart></MyBarChart>
+                </div>
+                <div>
+                    <MyPieChart></MyPieChart>
+                </div>
+            </div>
         </div>
-        
+
     );
 };
 
