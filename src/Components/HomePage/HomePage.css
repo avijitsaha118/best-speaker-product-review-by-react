@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+}
+.title-container{
+    margin-left: 150px;
+    margin-top: 80px;
+}
+.image-container{
+    margin-left: 200px;
+    margin-top: 25px;
+    padding: 20px;
+}
+.review-container{
+    margin-top: 20px;
+    padding: 10px;
+}
