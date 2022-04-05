@@ -41,6 +41,7 @@ const MyBarChart = () => {
             "revenue": 61000
         }
     ]
+    
     return (
       <BarChart width={500} height={600} data={data}>
           <CartesianGrid strokeDasharray="3 3"/>
